@@ -1,0 +1,80 @@
+{
+	"model": [
+		{
+			"color": 0,
+			"name": "base",
+			"size": {
+				"x": 258,
+				"y": 7,
+				"z": 186
+			},
+			"type": "box",
+			"visible": [
+				0,
+				1,
+				2,
+				4,
+				5
+			]
+		},
+		{
+			"amount": {
+				"x": 16,
+				"y": 0,
+				"z": 0
+			},
+			"color": 0,
+			"from": {
+				"x": 14,
+				"y": 0,
+				"z": 90
+			},
+			"name": "dots",
+			"to": {
+				"x": 239,
+				"y": 0,
+				"z": 90
+			},
+			"type": "dots"
+		},
+		{
+			"amount": {
+				"x": 17,
+				"y": 0,
+				"z": 6
+			},
+			"from": {
+				"x": 7,
+				"y": 7,
+				"z": 2
+			},
+			"name": "squares-top",
+			"to": {
+				"x": 247,
+				"y": 7,
+				"z": 78
+			},
+			"type": "squares"
+		},
+		{
+			"amount": {
+				"x": 17,
+				"y": 0,
+				"z": 6
+			},
+			"from": {
+				"x": 7,
+				"y": 7,
+				"z": 104
+			},
+			"name": "squares-bottom",
+			"to": {
+				"x": 247,
+				"y": 7,
+				"z": 179
+			},
+			"type": "squares"
+		}
+	],
+	"name": "Base Plate"
+}
